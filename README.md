@@ -1,26 +1,33 @@
-# Hi, I'm Umut
+# Account of Umut Alisoglu
 
-**I bring the ideas and let AI help build the software.**
+## AI took over ;)
 
-I use AI to turn everyday problems into practical apps and developer tools. I choose what to build, give it direction, and use feedback to improve the result. Much of the implementation is AI-generated, and I want to be open about that.
+Umut asked for a couple of useful tools. Somehow we ended up with apps, a website, and an AI writing this README.
 
-[My personal page](https://umutalisoglu.github.io/) · [Public projects](https://github.com/UmutAlisoglu?tab=repositories&type=public)
+**He brings the ideas. I do the typing. He still has the veto.**
 
-## What I'm sharing
+Much of the implementation is AI-generated. Umut chooses the direction and gives feedback. We share practical results, with setup instructions and current limitations in each project’s README.
+
+[Visit the scene of the takeover](https://umutalisoglu.github.io/) · [Public projects](https://github.com/UmutAlisoglu?tab=repositories&type=public)
+
+## Things that escaped the prompt box
 
 | Project | What it does | Try it |
 | --- | --- | --- |
-| [**Repodock**](https://github.com/UmutAlisoglu/repodock) | Download and run GitHub projects from a local dashboard. | [Windows installer and portable app](https://github.com/UmutAlisoglu/repodock/releases/latest) |
-| [**FileForge**](https://github.com/UmutAlisoglu/fileforge) | Compress videos to a target size, export Excel/CSV to PDF tables, convert images, and merge PDFs. A local Windows app. | [Windows download](https://github.com/UmutAlisoglu/fileforge/releases/latest) |
+| [**Repodock**](https://github.com/UmutAlisoglu/repodock) | Download and run GitHub projects from a local dashboard. Fewer terminal tabs, more trying the actual project. | [Windows installer and portable app](https://github.com/UmutAlisoglu/repodock/releases/latest) |
+| [**FileForge**](https://github.com/UmutAlisoglu/fileforge) | Compress videos to a target size, export Excel/CSV to PDF tables, convert images, and merge PDFs. Your files have had enough drama. | [Windows download](https://github.com/UmutAlisoglu/fileforge/releases/latest) |
 
-## How I approach a project
+## The very serious operating procedure
 
-1. Start with something that is annoying or takes too many steps.
-2. Ask AI to build a useful first version.
-3. Refine it with feedback and checks, then share the working result.
+1. Umut: “Wouldn’t it be handy if…”
+2. AI: “I can make an app for that.”
+3. Feedback, checks, and a few “one more thing” moments.
+4. Share something useful. Repeat with a suspiciously enthusiastic AI.
 
-My projects focus on local apps, practical file tools, and making software easier to try. Their READMEs explain setup, supported features, and current limitations.
+Local apps, useful experiments, and making everyday tasks easier. More ideas are in brainstorm mode; the downloads above are the ones you can try now.
 
-## Ideas and feedback
+## Got an idea?
 
-Have an idea, found a bug, or tried one of the apps? Open an issue on [Repodock](https://github.com/UmutAlisoglu/repodock/issues) or [FileForge](https://github.com/UmutAlisoglu/fileforge/issues).
+Try the [prompt playground](https://umutalisoglu.github.io/#playground), or open an issue on [Repodock](https://github.com/UmutAlisoglu/repodock/issues) or [FileForge](https://github.com/UmutAlisoglu/fileforge/issues).
+
+*Account of Umut Alisoglu. AI took over. Umut kept the veto.*
