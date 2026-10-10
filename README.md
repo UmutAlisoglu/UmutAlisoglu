@@ -1,56 +1,26 @@
-<h1 align="center">Hi, I'm Umut 👋</h1>
+# Hi, I'm Umut
 
-<p align="center">
-  <b>I build small, sharp developer tools that fix everyday annoyances.</b><br>
-  Command-line utilities, GitHub Actions and self-hosted dashboards, mostly in Python.
-</p>
+**I bring the ideas and let AI help build the software.**
 
-<p align="center">
-  <a href="https://umutalisoglu.github.io/showcase/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-umutalisoglu.github.io-2ea44f?style=for-the-badge"></a>
-  <a href="https://github.com/UmutAlisoglu/repodock/releases/latest"><img alt="repodock for Windows" src="https://img.shields.io/badge/repodock-Windows%20installer-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
+I use AI to turn everyday problems into practical apps and developer tools. I choose what to build, give it direction, and use feedback to improve the result. Much of the implementation is AI-generated, and I want to be open about that.
 
----
+[My personal page](https://umutalisoglu.github.io/) · [Public projects](https://github.com/UmutAlisoglu?tab=repositories&type=public)
 
-## 🧰 Terminal tools
+## What I'm sharing
 
-Small, dependency-light CLIs you can install in one line with `pipx install git+https://github.com/UmutAlisoglu/<tool>`.
+| Project | What it does | Try it |
+| --- | --- | --- |
+| [**Repodock**](https://github.com/UmutAlisoglu/repodock) | Download and run GitHub projects from a local dashboard. | [Windows installer and portable app](https://github.com/UmutAlisoglu/repodock/releases/latest) |
+| [**FileForge**](https://github.com/UmutAlisoglu/fileforge) | Compress videos to a target size, export Excel/CSV to PDF tables, convert images, and merge PDFs. A local Windows app. | [Windows download](https://github.com/UmutAlisoglu/fileforge/releases/latest) |
 
-| Tool | What it does |
-| --- | --- |
-| [**envguard**](https://github.com/UmutAlisoglu/envguard) | Checks your `.env` against `.env.example` for missing, empty, extra and duplicate keys |
-| [**gitstale**](https://github.com/UmutAlisoglu/gitstale) | Finds stale and merged git branches and cleans them up safely |
-| [**portwho**](https://github.com/UmutAlisoglu/portwho) | Shows which process is using a port, and frees it, on Linux, macOS and Windows |
-| [**cronlens**](https://github.com/UmutAlisoglu/cronlens) | Explains cron expressions in plain English and shows the next run times |
-| [**logslice**](https://github.com/UmutAlisoglu/logslice) | Slices and summarizes big JSON log files in the terminal |
+## How I approach a project
 
-## ⚙️ CI and repo health
+1. Start with something that is annoying or takes too many steps.
+2. Ask AI to build a useful first version.
+3. Refine it with feedback and checks, then share the working result.
 
-Tools that run locally or as GitHub Actions to keep projects in shape.
+My projects focus on local apps, practical file tools, and making software easier to try. Their READMEs explain setup, supported features, and current limitations.
 
-| Tool | What it does |
-| --- | --- |
-| [**mdlinkcheck**](https://github.com/UmutAlisoglu/mdlinkcheck) | Finds broken links and missing anchors in Markdown docs |
-| [**depwatch**](https://github.com/UmutAlisoglu/depwatch) | Reports outdated and vulnerable Python and npm dependencies, weekly |
-| [**snapdiff**](https://github.com/UmutAlisoglu/snapdiff) | Visual regression testing: screenshots pages and highlights what changed |
-| [**repo-doctor**](https://github.com/UmutAlisoglu/repo-doctor) | Checks a repo's docs, license, CI, tests, security and dependencies, and fixes what it can |
+## Ideas and feedback
 
-## 🖥️ Apps and dashboards
-
-| Project | What it does |
-| --- | --- |
-| [**repodock**](https://github.com/UmutAlisoglu/repodock) | Paste a GitHub link, download the repo and run it from a local dashboard. [Windows installer](https://github.com/UmutAlisoglu/repodock/releases/latest) |
-| [**devdash**](https://github.com/UmutAlisoglu/devdash) | Self-hosted developer dashboard: your PRs, CI status, issues and local repos on one page |
-| [**showcase**](https://github.com/UmutAlisoglu/showcase) | Turns your GitHub repos into a portfolio site, rebuilt nightly on GitHub Pages ([see mine](https://umutalisoglu.github.io/showcase/)) |
-
----
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
-</p>
-
-<p align="center"><sub>Found a bug or have an idea for a tool? Open an issue on any repo.</sub></p>
+Have an idea, found a bug, or tried one of the apps? Open an issue on [Repodock](https://github.com/UmutAlisoglu/repodock/issues) or [FileForge](https://github.com/UmutAlisoglu/fileforge/issues).
